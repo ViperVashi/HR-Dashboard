@@ -63,7 +63,7 @@ Supports workforce planning and retention strategies
 Enables HR teams to make informed, data-driven decisions
 
 # Dashboard Preview
-https://github.com/ViperVashi/HR-Dashboard/blob/main/hr%20dashboard.png
+![HR Dashboard](https://raw.githubusercontent.com/ViperVashi/HR-Dashboard/main/hr%20dashboard.png)
 
 # Key Insights
 Overall attrition rate stands at 16.12%.
