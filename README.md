@@ -5,23 +5,23 @@ HR Analytics Dashboard | Employee Attrition & Workforce Insights
 This HR Analytics Dashboard provides a comprehensive overview of employee attrition, workforce demographics, salary distribution, and departmental performance. The dashboard helps HR teams and business leaders identify attrition trends, understand employee demographics, and make data-driven decisions to improve employee retention and workforce planning.
 
 # Tech Stack
-Tableau Desktop
-Data Visualization
-Calculated Fields
-Interactive Filters
-Dashboard Design & Storytelling
+Tableau Desktop,
+Data Visualization,
+Calculated Fields,
+Interactive Filters,
+Dashboard Design & Storytelling,
 Data Analysis
 
 
 # Data Source
 Kaggle
-Dataset includes employee information such as:
-Age
-Gender
-Department
-Education Field
-Monthly Income
-Attrition Status
+-Dataset includes employee information such as:
+Age,
+Gender,
+Department,
+Education Field,
+Monthly Income,
+Attrition Status,
 Employee Count
 
 
