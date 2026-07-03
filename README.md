@@ -40,7 +40,7 @@ Employee distribution across different age groups
 Gender-wise attrition comparison
 Age-group-wise attrition analysis
 
-#3. Department Attrition Insights
+3. Department Attrition Insights
 Department-wise employee attrition breakdown
 Identification of departments with the highest turnover rates
 
