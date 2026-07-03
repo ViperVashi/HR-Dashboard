@@ -1,10 +1,10 @@
 # HR-Dashboard
 HR Analytics Dashboard | Employee Attrition & Workforce Insights
 
-1. Description 
+# Description 
 This HR Analytics Dashboard provides a comprehensive overview of employee attrition, workforce demographics, salary distribution, and departmental performance. The dashboard helps HR teams and business leaders identify attrition trends, understand employee demographics, and make data-driven decisions to improve employee retention and workforce planning.
 
-2. Tech Stack
+# Tech Stack
 Tableau Desktop
 Data Visualization
 Calculated Fields
@@ -13,7 +13,7 @@ Dashboard Design & Storytelling
 Data Analysis
 
 
-3. Data Source
+# Data Source
 Kaggle
 Dataset includes employee information such as:
 Age
@@ -26,46 +26,46 @@ Employee Count
 
 
 
-4.Features & Highlights
+# Features & Highlights
 
- # Workforce Overview
+ 1. Workforce Overview
 Total Employee Count
 Active Employee Count
 Attrition Count
 Attrition Rate (%)
 Average Employee Age
 
-# Employee Demographics Analysis
+2. Employee Demographics Analysis
 Employee distribution across different age groups
 Gender-wise attrition comparison
 Age-group-wise attrition analysis
 
-# Department Attrition Insights
+#3. Department Attrition Insights
 Department-wise employee attrition breakdown
 Identification of departments with the highest turnover rates
 
-# Education Field Analysis
+4. Education Field Analysis
 Attrition analysis based on employees' educational background
 Comparison of turnover across different education fields
 
-# Salary Distribution Analysis
+5. Salary Distribution Analysis
 Monthly income distribution of employees
 Understanding salary patterns across the workforce
 
-# Interactive Dashboard Features
+6. Interactive Dashboard Features
 Dynamic filtering by Education level
 Interactive charts and visualizations
 User-friendly dashboard layout for quick insights
 
-# Business Impact
+7. Business Impact
 Helps identify key drivers of employee attrition
 Supports workforce planning and retention strategies
 Enables HR teams to make informed, data-driven decisions
 
-5. Dashboard Preview
+# Dashboard Preview
 https://github.com/ViperVashi/HR-Dashboard/blob/main/hr%20dashboard.png
 
-6. Key Insights
+# Key Insights
 Overall attrition rate stands at 16.12%.
 Employees aged 25–34 show the highest attrition levels.
 The R&D Department experiences the highest employee turnover.
